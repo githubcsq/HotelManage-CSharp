@@ -1,10 +1,10 @@
 # HotelManage- CSharp
 
-[](/Screen/ER.png)
+![](/Screen/ER.png)
 
-[](/Screen/project.png)
+![](/Screen/project.png)
 
-[](/Screen/main.png)
+![](/Screen/main.png)
 
 
 ## 关于作者
